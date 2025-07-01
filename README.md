@@ -103,4 +103,4 @@ Ideal for electronics stores or small businesses wanting a tax-ready POS system.
 👨‍💻 Developer Info
 👤 Name: Abdul Basit
 📧 Email: basitbunny.222@gmail.com
-🔗 GitHub: github.com/mrbunny0011/
+🔗 GitHub: https://github.com/mrbunny0011?tab=repositories
